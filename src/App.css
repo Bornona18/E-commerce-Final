@@ -1,5 +1,31 @@
+@font-face {
+  font-family: 'Roboto';
+  src: local('Ranchers'), url(./fonts/Roboto-Regular.ttf) format('truetype');
+}
+
+body {
+  font-family: 'Roboto';
+}
+
+.hero {
+  padding: 0px 15px;
+}
+
+.container-fluid {
+  padding: 0;
+  margin: 0;
+}
+
+.card-header {
+  background-color: none;
+}
+
 .App {
   text-align: center;
+}
+
+.brand {
+  font-size: 28px;
 }
 
 .App-logo {
@@ -7,9 +33,13 @@
   pointer-events: none;
 }
 
+.content {
+  height: auto;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+      animation: App-logo-spin infinite 20s linear;
   }
 }
 
@@ -30,9 +60,9 @@
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+      transform: rotate(0deg);
   }
   to {
-    transform: rotate(360deg);
+      transform: rotate(360deg);
   }
 }
