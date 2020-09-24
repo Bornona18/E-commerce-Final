@@ -1,4 +1,5 @@
-Deployed link: https://e-commerce2-8b03d.web.app
+Deployed link: https://e-commerce-front-end.herokuapp.com/
+Deployed link:https://e-commerce2-8b03d.web.app (only Front-end)
 
 This E-Commerce app is about shopping. People from any age can shop here. Its easy to shop here.
 
