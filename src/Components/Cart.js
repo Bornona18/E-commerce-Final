@@ -94,6 +94,7 @@ class Cart extends Component {
     }
 }
 
+
 const mapStateToProps = state => {
     return {
         menshoes: state.menshoes,
