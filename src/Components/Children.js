@@ -160,6 +160,7 @@ function Children1(props) {
     )
 }
 
+
 // mapping variable from redux state
 const mapStateToProps = state => {
     return {
