@@ -18,6 +18,7 @@ function Dashboard() {
         }).catch(err => console.log(err))
     });    
 
+    
     return (
         <div>
             <h2>History</h2>
