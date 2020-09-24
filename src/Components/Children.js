@@ -41,6 +41,7 @@ function Children1(props) {
                 setShoes(res.data)
             }).catch(err => console.log(err))
     }, [])
+    
 
     // on Pressing Add to cart , selected  data will be pushed into array
     function submitProduct(id, value , price, type) {
