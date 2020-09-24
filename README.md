@@ -1,4 +1,11 @@
 Deployed link: https://e-commerce2-8b03d.web.app
+
+This E-Commerce app is about shopping. People from any age can shop here. Its easy to shop here.
+
+This project was bootstrapped with Create React App.
+
+
+
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
