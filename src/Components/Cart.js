@@ -111,3 +111,4 @@ const mapdispatchToProps = dispatch => {
     }
 }
 export default connect(mapStateToProps, mapdispatchToProps)(Cart)
+
