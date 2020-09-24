@@ -7,8 +7,6 @@ import Session from './../Session';
 const constants = require('./../const')
 const axios = require('axios')
 
-
-
 //  stateless Component
 function Home() {
 
